@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FakeTweet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: m_745216
+Implementation-Vendor-Id: com.fake.tweet
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/FakeTweet
+Created-By: Maven Integration for Eclipse
+

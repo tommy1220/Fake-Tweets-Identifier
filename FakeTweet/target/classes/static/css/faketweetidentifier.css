@@ -1,0 +1,24 @@
+.btn-secondary {
+    color: #fff;
+    background-color: #19b5fe;
+    border-color: #6c757d;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #1888f0;
+    border-color: #4e555b;
+}
+
+.alert {
+    display:inline-block;
+}
+
+#tweet {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+#morecontents {
+}
+
